@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X100",
+      "reference": "SPX100",
+      "price": 999.99,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro 15",
+      "reference": "LTP15",
+      "price": 1299.99,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "reference": "WH100",
+      "price": 199.99,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "Gaming Console Z",
+      "reference": "GCZ",
+      "price": 499.99,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "4K TV 55\"",
+      "reference": "4KTV55",
+      "price": 699.99,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "reference": "BS300",
+      "price": 149.99,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch Series 5",
+      "reference": "SWS5",
+      "price": 349.99,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Electric Scooter",
+      "reference": "ES900",
+      "price": 899.99,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Fitness Tracker",
+      "reference": "FT50",
+      "price": 99.99,
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "name": "Drone QuadX",
+      "reference": "DQX",
+      "price": 499.99,
+      "rating": 4
+    }
+  ]
+  
